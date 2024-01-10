@@ -246,7 +246,7 @@ def create_dashboard(data, countries):
              fontweight='bold', fontsize=20)
         
     plt.tight_layout()
-    plt.savefig("22074909", dpi=300)
+    plt.show()
 
 
 
